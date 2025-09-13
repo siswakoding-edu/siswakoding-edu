@@ -3,7 +3,7 @@
   <br>
   <samp>
    <p>
-      We're a <strong>private tutoring center</strong> in <a href="https://www.google.com/maps/d/embed?mid=1CZQU30NT8s-6K5Ko8VtaP-YVaRE&ie=UTF8&hl=en&t=h&msa=0&ll=-6.59162800000001%2C106.79328900000003&spn=0.059684%2C0.083256&z=13&output=embed">Bogor</a> and first private tutoring in Ciomas. Our beloved district.
+      We're a <strong>private tutoring center</strong> in <a href="https://www.google.com/maps/d/embed?mid=1CZQU30NT8s-6K5Ko8VtaP-YVaRE&ie=UTF8&hl=en&t=h&msa=0&ll=-6.59162800000001%2C106.79328900000003&spn=0.059684%2C0.083256&z=13&output=embed">Bogor</a> and first private tutoring service in Ciomas. Our beloved district.
     </p>
 
 </div>
